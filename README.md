@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nshutidavid
 - 👀 I’m interested in Full stack application development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on that field
+
+
 - 📫 reach me on +250788740375
 
 <!---
