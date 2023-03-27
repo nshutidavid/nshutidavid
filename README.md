@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nshutidavid
-- 👀 I’m interested in Full stack application development
+- 👀 Full Stack Developer | Specializing in web applications | Proficient in JavaScript, Node.js, React and databases
 
 
 - 📫 reach me on +250788740375
